@@ -1,6 +1,6 @@
 # java--mode
 I developed this pix editor application using java 
-
+![logo]( https://github.com/S748144/java--mode/commit/83174849bb6db46572542a6cb54140ffbab4b430)
    <h1 align="center">Hi 👋, I'm Shameem Ramzan</h1>
 <h3 align="center">A passionate Android developer from Pakistan</h3>
 < img align="right" alt="coding" width=" 400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
