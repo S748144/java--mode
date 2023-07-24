@@ -1,5 +1,5 @@
 # java--mode
-I developed this pix editor application using java 
+I developed this Pix editor application using java 
 ![logo]( https://github.com/S748144/java--mode/commit/83174849bb6db46572542a6cb54140ffbab4b430)
    <h1 align="center">Hi 👋, I'm Shameem Ramzan</h1>
 <h3 align="center">A passionate Android developer from Pakistan</h3>
